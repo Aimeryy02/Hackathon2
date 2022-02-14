@@ -1,0 +1,9 @@
+DANS LE TERMINAL
+
+echo " Hackathon2 " >> README.md    
+git init
+git add README.md    
+git commit -m "first commit"
+git branch -M aimery  <---- ta branch dans git
+git remote add origin https://github.com/Aimeryy02/Hackathon2.git
+git push -u origin aimery  <---- ta branch dans git
